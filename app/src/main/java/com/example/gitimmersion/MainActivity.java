@@ -12,5 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("HELLO I AM MAKING AN EDIT");
+        
+        System.out.println("Made edit on Github");
+        
     }
 }
